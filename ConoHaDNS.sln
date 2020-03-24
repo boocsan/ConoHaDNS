@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29505.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConoHaDNS", "ConoHaDNS\ConoHaDNS.csproj", "{3248CB6E-7B8A-43AF-B1E0-399571AC3FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3248CB6E-7B8A-43AF-B1E0-399571AC3FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3248CB6E-7B8A-43AF-B1E0-399571AC3FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3248CB6E-7B8A-43AF-B1E0-399571AC3FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3248CB6E-7B8A-43AF-B1E0-399571AC3FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA708D2-B5CF-4667-B49E-67E2350B4BBB}
+	EndGlobalSection
+EndGlobal
